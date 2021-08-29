@@ -1,0 +1,6 @@
+_*
+*.sh
+*.o
+objectfiles
+build/
+.vscode
